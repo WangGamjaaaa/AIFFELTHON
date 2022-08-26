@@ -2,7 +2,7 @@
 
 <img src = "./img/sia_logo.png" style = "width: 100%;">
 
-<p style = "margin-bottom:25px;"><p/>
+<div style = "height: 50px;"></div>
 
 ## 1. 목표 
 <hr/>
@@ -10,7 +10,7 @@
     <li style = "margin-bottom:20px;">위성 영상에서 <span style = 'background-color:#fff5b1; padding:0.2px;'>항공기, 선박, 차량의 위치를 식별</span>한다.</li>
 </ul>
 
-<div style = "margin-bottom:50px;"><div/>
+<div style = "height: 50px;"></div>
 
 ## 2. Level Step
 <hr/>
@@ -44,7 +44,7 @@
     <li style = "margin-bottom:20px;">filename, origin, width, height, depth, coordinate, type, description, name, point 등으로 이루어짐</li>
 </ul>
 
-<p style = "margin-bottom:50px;"><p/>
+<div style = "height: 50px;"></div>
 
 ## 4. 팀원 구성
 <hr/>
@@ -70,7 +70,7 @@
     </tr>
 </table>
 
-<p style = "margin-bottom:50px;"><p/>
+<div style = "height: 50px;"></div>
 
 ## 5. 프로젝트 진행 
 <hr/>
@@ -103,4 +103,4 @@
     </tr>
 </table>
 
-<p style = "margin-bottom:50px;"><p/>
+<div style = "height: 50px;"></div>
