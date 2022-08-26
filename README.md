@@ -2,14 +2,14 @@
 
 <img src = "./img/sia_logo.png" style = "width: 100%;">
 
-<div style = "height: 50px;"></div>
+<br><br>
 
 ## 1. 목표 
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">위성 영상에서 <span style = 'background-color:#fff5b1; padding:0.2px;'>항공기, 선박, 차량의 위치를 식별</span>한다.</li>
 </ul>
 
-<div style = "height: 50px;"></div>
+<br><br>
 
 ## 2. Level Step
 
@@ -20,7 +20,7 @@
     <li style = "margin-bottom:20px;">Level2의 결과를 평가를 하고 성능 개선하기 (어려움 ★★★★☆)</li>
 </ul>
 
-<p style = "margin-bottom:50px;"><p/>
+<br><br>
 
 ## 3. Data Set:  Fair1M-2.0
 
@@ -41,7 +41,7 @@
     <li style = "margin-bottom:20px;">filename, origin, width, height, depth, coordinate, type, description, name, point 등으로 이루어짐</li>
 </ul>
 
-<div style = "height: 50px;"></div>
+<br><br>
 
 ## 4. 팀원 구성
 
@@ -66,7 +66,7 @@
     </tr>
 </table>
 
-<div style = "height: 50px;"></div>
+<br><br>
 
 ## 5. 프로젝트 진행 
 
@@ -98,4 +98,4 @@
     </tr>
 </table>
 
-<div style = "height: 50px;"></div>
+<br><br>
