@@ -5,7 +5,6 @@
 <div style = "height: 50px;"></div>
 
 ## 1. 목표 
-<hr/>
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">위성 영상에서 <span style = 'background-color:#fff5b1; padding:0.2px;'>항공기, 선박, 차량의 위치를 식별</span>한다.</li>
 </ul>
@@ -13,7 +12,6 @@
 <div style = "height: 50px;"></div>
 
 ## 2. Level Step
-<hr/>
 
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">데이터에서 항공기, 선박, 차량으로만 이루어진 데이터셋으로 정제한다. (일반 ★☆☆☆☆)</li>
@@ -25,7 +23,6 @@
 <p style = "margin-bottom:50px;"><p/>
 
 ## 3. Data Set:  Fair1M-2.0
-<hr/>
 
 ### Image
 
@@ -47,7 +44,6 @@
 <div style = "height: 50px;"></div>
 
 ## 4. 팀원 구성
-<hr/>
 
 <table style = "width:100%; margin:auto; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
@@ -73,7 +69,6 @@
 <div style = "height: 50px;"></div>
 
 ## 5. 프로젝트 진행 
-<hr/>
 
 <table style = "width:100%; margin:auto; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:70%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">진행 사항</th>
