@@ -1,158 +1,55 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.9.12
-  nbformat: 4
-  nbformat_minor: 5
----
+# <span style = "font-weight:bold;color:#0172d4;">SIA</span> 프로젝트 소개
 
-::: {.cell .markdown}
-```{=html}
-<p style = "margin-bottom:50px;">
-```
-```{=html}
-<p/>
-```
-:::
+<img src = "./img/sia_logo.png" style = "width: 100%;">
 
-::: {.cell .markdown}
-# `<span style = "font-weight:bold;color:#0172d4;">`{=html}SIA`</span>`{=html} 프로젝트 소개
-:::
+<p style = "margin-bottom:25px;"><p/>
 
-::: {.cell .markdown}
-`<img src = "./img/sia_logo.png" style = "width: 100%;">`{=html}
-:::
-
-::: {.cell .markdown}
-```{=html}
-<p style = "margin-bottom:25px;">
-```
-```{=html}
-<p/>
-```
-:::
-
-::: {.cell .markdown}
-## 1. 목표 {#1-목표}
-
-```{=html}
+## 1. 목표 
 <hr/>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">위성 영상에서 <span style = 'background-color:#fff5b1; padding:0.2px;'>항공기, 선박, 차량의 위치를 식별</span>한다.</li>
 </ul>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
-<p style = "margin-bottom:50px;">
-```
-```{=html}
-<p/>
-```
-:::
+<p style = "margin-bottom:50px;"><p/>
 
-::: {.cell .markdown}
-## 2. Level Step {#2-level-step}
-
-```{=html}
+## 2. Level Step
 <hr/>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">데이터에서 항공기, 선박, 차량으로만 이루어진 데이터셋으로 정제한다. (일반 ★☆☆☆☆)</li>
     <li style = "margin-bottom:20px;">세 가지 Class에 대해 <span style = 'background-color:#fff5b1; padding:0.2px;'>객체 검출을 위한 학습</span>을 수행하고 결과를 표출한다. (클래스 별로 각각의 모델을 만들어도 좋습니다) (어려움 ★★☆☆☆)
 </li>
     <li style = "margin-bottom:20px;">Level2의 결과를 평가를 하고 성능 개선하기 (어려움 ★★★★☆)</li>
 </ul>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
-<p style = "margin-bottom:50px;">
-```
-```{=html}
-<p/>
-```
-:::
+<p style = "margin-bottom:50px;"><p/>
 
-::: {.cell .markdown}
-## 3. Data Set: Fair1M-2.0 {#3-data-set-fair1m-20}
-
-```{=html}
+## 3. Data Set:  Fair1M-2.0
 <hr/>
-```
-:::
 
-::: {.cell .markdown}
 ### Image
-:::
 
-::: {.cell .markdown}
-```{=html}
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">Gaofan에서 취득한 위성영상으로, Gaofan(GF)은 인공 위성을 뜻한다.</li>
     <li style = "margin-bottom:20px;">600x600 ~ 9472 x 10000 까지 다양한 크기의 Scene 형태</li>
     <li style = "margin-bottom:20px;">TIF 확장자로 제공</li>
     <li style = "margin-bottom:20px;">GSD(Ground Sample Distance): 0.3m ~ 0.8m</li>
 </ul>
-```
-:::
 
-::: {.cell .markdown}
 ### Label
-:::
 
-::: {.cell .markdown}
-```{=html}
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">객체의 Class, Polygon 등의 정보를 xml 확장자로 제공</li>
     <li style = "margin-bottom:20px;">이미지 파일에 대한 정보가 들어있음</li>
     <li style = "margin-bottom:20px;">filename, origin, width, height, depth, coordinate, type, description, name, point 등으로 이루어짐</li>
 </ul>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
-<p style = "margin-bottom:50px;">
-```
-```{=html}
-<p/>
-```
-:::
+<p style = "margin-bottom:50px;"><p/>
 
-::: {.cell .markdown}
-## 4. 팀원 구성 {#4-팀원-구성}
-
-```{=html}
+## 4. 팀원 구성
 <hr/>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
 <table style = "width:100%; margin:auto; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
@@ -173,28 +70,12 @@ jupyter:
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">데이터 EDA 및 시각화, 회의록 작성 및 스케줄 관리, 모델링 및 Loss Function 비교 분석 </td>
     </tr>
 </table>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
-<p style = "margin-bottom:50px;">
-```
-```{=html}
-<p/>
-```
-:::
+<p style = "margin-bottom:50px;"><p/>
 
-::: {.cell .markdown}
-## 5. 프로젝트 진행 {#5-프로젝트-진행}
-
-```{=html}
+## 5. 프로젝트 진행 
 <hr/>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
 <table style = "width:100%; margin:auto; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:70%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">진행 사항</th>
     <th style = "width:30%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">code link</th>
@@ -222,14 +103,5 @@ jupyter:
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;"><a href = "">code</a></td>
     </tr>
 </table>
-```
-:::
 
-::: {.cell .markdown}
-```{=html}
-<p style = "margin-bottom:50px;">
-```
-```{=html}
-<p/>
-```
-:::
+<p style = "margin-bottom:50px;"><p/>
