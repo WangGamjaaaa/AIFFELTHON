@@ -6,12 +6,11 @@
 
 ## 1. 목표 
 <hr/>
-
 <ul style = "font-size:15px;">
     <li style = "margin-bottom:20px;">위성 영상에서 <span style = 'background-color:#fff5b1; padding:0.2px;'>항공기, 선박, 차량의 위치를 식별</span>한다.</li>
 </ul>
 
-<p style = "margin-bottom:50px;"><p/>
+<div style = "margin-bottom:50px;"><div/>
 
 ## 2. Level Step
 <hr/>
