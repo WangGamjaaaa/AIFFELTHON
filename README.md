@@ -45,7 +45,7 @@
 
 ## 4. 팀원 구성
 
-<table style = "width:100%; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
+<table style = "width:100% !important; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
     <th style = "width:60%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">역할</th>
@@ -70,7 +70,7 @@
 
 ## 5. 프로젝트 진행 
 
-<table style = "width:100%; border:0.5px solid #c1c1c1; font-size:15px;">
+<table style = "width:100% !important; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:70%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">진행 사항</th>
     <th style = "width:30%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">code link</th>
     <tr>
