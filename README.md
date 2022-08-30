@@ -45,7 +45,7 @@
 
 ## 4. 팀원 구성
 
-<table style = "width:100%; margin:auto; border:0.5px solid #c1c1c1; font-size:15px;">
+<table style = "width:100%; margin:0; border:0.5px solid #c1c1c1; font-size:15px;">
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">이름</th>
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
     <th style = "width:60%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">역할</th>
