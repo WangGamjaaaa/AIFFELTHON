@@ -50,19 +50,29 @@
     <th style = "width:20%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">구성</th>
     <th style = "width:60%; padding:10px; text-align:center; border:0.5px solid #c1c1c1;">역할</th>
     <tr>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">김현호</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">차보경</td>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀장</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">파이토치, WanDB, base model 구축, 데이터 재구성, 모델링 및 Loss Function 비교 분석</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">회의록 작성 및 스케줄 관리, 데이터 EDA, 데이터 재구성, 모델링 및 Loss Function, matrix 구현</td>
     </tr>
-        <tr>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">박혁성</td>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">채준병</td>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">논문 조사, GIS Mapping, GCP 운용, 전체적인 QGIS 툴 전담 역할, 모델링 및 Loss Function 비교 분석</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">데이터 EDA, 데이터 재구성, Wandb, 모델링 및 matrix 구현</td>
     </tr>
-        <tr>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">한연규</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">모델링 및 Loss Function 비교 분석, 논문 조사 등 </td>
+    </tr>
+    <tr>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">임새란</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">Base line구축 및 matrix 구현, 논문 조사 등</td>
+    </tr>
+    <tr>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">윤혜연</td>
         <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">팀원</td>
-        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">데이터 EDA 및 시각화, 회의록 작성 및 스케줄 관리, 모델링 및 Loss Function 비교 분석 </td>
+        <td style = "padding:10px; text-align:center; border:0.5px solid #c1c1c1;">데이터 EDA 및 시각화, QGIS툴, 모델 평가, 등등..</td>
     </tr>
 </table>
 
